@@ -8,7 +8,6 @@ package testt;
  *
  * @author Admin
  */
-public class sddgbs {
+public class new123 {
     
 }
- 
